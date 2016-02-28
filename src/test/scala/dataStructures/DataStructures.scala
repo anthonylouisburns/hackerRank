@@ -9,7 +9,8 @@ class DataStructures extends FreeSpec with HRTest {
 
   "Arrays https://www.hackerrank.com/domains/data-structures/arrays" - {
     "Arrays- DS https://www.hackerrank.com/challenges/arrays-ds" in {
-      testSolution("4\n1 45 3 2\n","2 3 45 1 ",ArraysDS.Solution.main)
+      testSolution("4\n1 45 3 2\n","2 3 45 1 ",
+        ArraysDS.Solution.main)
     }
 
     "2D Array - DS https://www.hackerrank.com/challenges/2d-array" in {
