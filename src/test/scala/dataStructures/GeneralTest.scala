@@ -1,5 +1,6 @@
+package dataStructures
+
 import java.io.ByteArrayInputStream
-import java.util.Scanner
 
 import org.scalatest.FreeSpec
 

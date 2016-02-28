@@ -1,4 +1,4 @@
-package TwoDArray
+package dataStructures.TwoDArray
 
 object Solution {
 

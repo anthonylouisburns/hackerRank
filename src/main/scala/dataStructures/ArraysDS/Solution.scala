@@ -1,4 +1,4 @@
-package ArraysDS
+package dataStructures.ArraysDS
 
 object Solution {
 
